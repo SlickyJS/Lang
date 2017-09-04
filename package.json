@@ -1,11 +1,11 @@
 {
 	"name": "@slicky/lang",
 	"description": "Typescript lang helpers",
-	"version": "1.0.2",
+	"version": "1.0.0",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:SlickyJS/Core.git"
+		"url": "git@github.com:SlickyJS/Lang.git"
 	},
 	"author": {
 		"name": "David Kudera",
@@ -14,7 +14,7 @@
 	"main": "./lib/index.js",
 	"types": "./lib/index.d.ts",
 	"devDependencies": {
-		"typescript": "^2.1.0"
+		"typescript": "^2.4.2"
 	},
 	"scripts": {
 		"build": "tsc"
